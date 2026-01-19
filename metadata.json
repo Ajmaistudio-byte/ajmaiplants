@@ -1,0 +1,8 @@
+{
+  "name": "Plant Ai Pro",
+  "description": "A futuristic botanical companion app featuring plant identification, AI visualization, and a smart gardening assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
